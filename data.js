@@ -47,7 +47,7 @@ export const CLASSES = [
       { name: "محمدسبحان اوحدی", gems: 300 },
       { name: "علی بانشی", gems: 0 },
       { name: "امیرعلی برومند", gems: 0 },
-      { name: "ابوالفضل بهمنی", gems: 1 },
+      { name: "ابوالفضل بهمنی", gems: 100 },
       { name: "علی جابری اربابی", gems: 0, role: "مدیر ارشد" },
       { name: "امیرحسین جهانخواه", gems: 0 },
       { name: "محمدرضا دشتکی پور", gems: 0 },
@@ -101,7 +101,7 @@ export const CLASSES = [
     students: [
       { name: "محمدجواد اشراق پور", gems: 0 },
       { name: "محمدپارسا جعفری", gems: 0 },
-      { name: "طاها حسینقلی", gems: 0 },
+      { name: "طاها حسینقلی", gems: 300 },
       { name: "محمدمهدی دادگر", gems: 0 },
       { name: "ایلیا ذوالعدل", gems: 0 },
       { name: "عرشیا ذوالعدل", gems: 0 },
