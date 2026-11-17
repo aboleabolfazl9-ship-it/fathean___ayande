@@ -18,7 +18,7 @@ export const CLASSES = [
     students: [
       { name: "محمد اکرمی ابرقوئی", gems: 30 },
       { name: "محمدکیان برائی", gems: 30 },
-      { name: "محمدطه تکتاز", gems: 30 },
+      { name: "محمد طاها تکتاز", gems: 30 },
       { name: "محمدرحیم تهمتن", gems: 30 },
       { name: "امیرعباس جوکار", gems: 30 },
       { name: "محمدطاها خانی دهنوی", gems: 30 },
